@@ -1,0 +1,7 @@
+#configuration
+# -*- coding: utf-8 -*-
+C_KEY = 'Q898z6TjXU0XWlme7fyWtXd7f'
+C_SECRET = 'RdXjMHT6uCP0JCipNUzlG2cPkkCyPWUtfw0ekOHE8brnUdSQZ0'
+A_TOKEN = '907003059410165760-iKEht8X8G2zgpKKGg5YCpLwTpXN1KFa'
+A_TOKEN_SECRET = 'eVYjOuZPiHa4mnIK8L46njeJbRFSosy4ZZtE2qgk4xbt0'
+
